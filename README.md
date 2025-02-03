@@ -1,1 +1,1 @@
-# finance-prediction
+# stock-prediction
